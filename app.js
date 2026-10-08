@@ -7,7 +7,7 @@ const venues = [
   {group:'그랜드코리아레저㈜',name:'세븐럭카지노 부산롯데점',region:'부산',address:'부산 부산진구 가야대로 772',sales:69051,visitors:183498,permit:'2005-01-28',site:'https://www.7luck.com/',siteLabel:'세븐럭'},
   {group:'㈜파라다이스세가사미',name:'파라다이스카지노 파라다이스시티',region:'인천',address:'인천 중구 영종해안남로321길 186',sales:485411,visitors:435020,permit:'1967-08-10',site:'https://www.paradisecasino.co.kr/',siteLabel:'파라다이스 카지노'},
   {group:'㈜인스파이어 인티그레이티드 리조트',name:'인스파이어카지노',region:'인천',address:'인천 중구 공항문화로 127',sales:286009,visitors:379161,permit:'2024-01-23',site:'https://www.hilton.com/ko/hotels/gmpikhi-inspire-entertainment-resort/things-to-do/casino/',siteLabel:'인스파이어 카지노 안내'},
-  {group:'㈜지바스',name:'알펜시아카지노',region:'강원',address:'강원 평창군 대관령면 솔봉로 325',sales:0,visitors:0,permit:'1980-12-09',uncertain:'현재 영업 여부 미확인'},
+  {group:'㈜지바스',name:'알펜시아카지노',region:'강원',address:'강원 평창군 대관령면 솔봉로 325',sales:0,visitors:0,permit:'1980-12-09',uncertain:'2027.2.1 재개장 예정 · 근거: 문체부 융복합관광과'},
   {group:'㈜골든크라운',name:'호텔인터불고대구카지노',region:'대구',address:'대구 수성구 팔현길 212',sales:20140,visitors:71960,permit:'1979-04-11'},
   {group:'길상창휘(유)',name:'제주완리카지노',region:'제주',address:'제주 제주시 탑동로 66',sales:0,visitors:0,permit:'1975-10-15',history:'공즈카지노 → 제주완리카지노 · 변경일 미확인',historyUrl:'https://kind.krx.co.kr/external/2026/05/15/001495/20260515003265/11013.htm',uncertain:'2026년 4월 휴업 보도 · 10월 채용 공고 · 재개장 여부 미확인'},
   {group:'㈜청해',name:'세븐스타카지노',region:'제주',address:'제주 서귀포시 중문관광로72번길 35',sales:40949,visitors:36722,permit:'1991-07-31'},
